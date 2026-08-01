@@ -8,3 +8,7 @@ All the ipynb files for the projects related to data science.
 - Netflix Churn Prediction
 - Real Estate Price Prediction
 - Sports Celebrity Classifier
+
+**Projects to be done**
+- More Data Science projects
+- Data Analysis Projects
