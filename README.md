@@ -12,3 +12,4 @@ All the ipynb files for the projects related to data science.
 **Projects to be done**
 - More Data Science projects
 - Data Analysis Projects
+- Data Science Projects ipynb
