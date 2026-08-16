@@ -13,3 +13,4 @@ All the ipynb files for the projects related to data science.
 - More Data Science projects
 - Data Analysis Projects
 - Data Science Projects ipynb
+- Machine Learning Projects ipynb
